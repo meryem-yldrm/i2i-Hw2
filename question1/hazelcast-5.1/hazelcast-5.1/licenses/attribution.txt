@@ -1,0 +1,1109 @@
+biz.aQute:bndlib:1.50.0
+	Copyright (c) 2000 Gatespace AB. All Rights Reserved.
+	Copyright (c) OSGi Alliance (2002, 2006, 2007). All Rights Reserved.
+	Copyright (c) OSGi Alliance (2009, 2010). All Rights Reserved.
+	Copyright (c) OSGi Alliance (2011). All Rights Reserved.
+
+com.amazonaws:aws-java-sdk-core:1.12.150
+	Copyright (c) 2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright (c) 2016-2019. Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright (c) 2016. Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright (c) 2019. Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2011-2022 Amazon Technologies, Inc.
+	Copyright 2011-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2012-2022 Amazon Technologies, Inc.
+	Copyright 2012-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2013-2022 Amazon Technologies, Inc.
+	Copyright 2013-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2014-2022 Amazon Technologies, Inc.
+	Copyright 2014-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2015-2022 Amazon Technologies, Inc.
+	Copyright 2015-2022 Amazon.com, Inc. or its affiliates. All Rights
+	Copyright 2015-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2016-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2018-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2019-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2020-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+com.amazonaws:aws-java-sdk-dynamodb:1.12.150
+	Copyright (c) 2016. Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2011-2022 Amazon Technologies, Inc.
+	Copyright 2011-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2012-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2013-2022 Amazon Technologies, Inc.
+	Copyright 2013-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2014-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2015-2022 Amazon Technologies, Inc.
+	Copyright 2015-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2016-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2017-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+com.amazonaws:aws-java-sdk-kinesis:1.12.150
+	Copyright 2017-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+com.amazonaws:aws-java-sdk-kms:1.12.150
+	Copyright 2011-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2017-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+com.amazonaws:aws-java-sdk-s3:1.12.150
+	Copyright (c) 2016. Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright (c) 2017. Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2010-20224 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2011-2022 Amazon Technologies, Inc.
+	Copyright 2011-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2012-2022 Amazon Technologies, Inc.
+	Copyright 2012-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2013-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2014-2022 Amazon Technologies, Inc.
+	Copyright 2014-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2015-2022 Amazon Technologies, Inc.
+	Copyright 2015-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2016-2022 Amazon Technologies, Inc.
+	Copyright 2016-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2017-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2018-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2019-2022 Amazon Technologies, Inc.
+	Copyright 2019-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2020-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2021-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+com.amazonaws:jmespath-java:1.12.150
+	Copyright 2010-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+com.esri.geometry:esri-geometry-api:2.2.0
+	COPYRIGHT 1995-2017 ESRI
+	Copyright 1995-2013 Esri
+	Copyright 1995-2015 Esri
+	Copyright 1995-2017 Esri
+	Copyright 1995-2018 Esri
+	Copyright 2013-2015 Esri
+
+com.fasterxml.jackson.core:jackson-core:2.12.6
+	Copyright (c) 2007- Tatu Saloranta, tatu.saloranta@iki.fi
+
+com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.12.6
+	Copyright 2013 FasterXML.com
+
+com.fasterxml.woodstox:woodstox-core:5.3.0
+	Copyright (c) 2004 Tatu Saloranta, tatu.saloranta@iki.fi
+	Copyright (c) 2004- Tatu Saloranta, tatu.saloranta@iki.fi
+	Copyright (c) 2005 Tatu Saloranta, tatu.saloranta@iki.fi
+
+com.github.ben-manes.caffeine:caffeine:2.9.2
+	Copyright 2014 Ben Manes. All Rights Reserved.
+	Copyright 2015 Ben Manes. All Rights Reserved.
+	Copyright 2016 Ben Manes. All Rights Reserved.
+	Copyright 2017 Ben Manes. All Rights Reserved.
+	Copyright 2018 Ben Manes. All Rights Reserved.
+	Copyright 2019 Ben Manes. All Rights Reserved.
+	Copyright 2021 Ben Manes. All Rights Reserved.
+
+com.github.erosb:everit-json-schema:1.14.0
+	Copyright (C) 2011 Everit Kft. (http://www.everit.org)
+	Copyright (c) 2002 JSON.org
+	Copyright (c) 2006 JSON.org
+
+com.github.shyiko:mysql-binlog-connector-java:0.20.1
+	Copyright 2013 Patrick Prasse
+	Copyright 2013 Stanley Shyiko
+	Copyright 2014 Patrick Prasse
+	Copyright 2014 Stanley Shyiko
+	Copyright 2015 Stanley Shyiko
+	Copyright 2016 Stanley Shyiko
+	Copyright 2017 Juan Olivares
+
+com.github.stephenc.jcip:jcip-annotations:1.0-1
+	Copyright 2013 Stephen Connolly.
+
+com.google.android:annotations:4.1.1.4
+	Copyright (C) 2012 The Android Open Source Project
+
+com.google.api-client:google-api-client-jackson2:1.32.2
+	Copyright 2013 Google Inc.
+
+com.google.api-client:google-api-client:1.32.2
+	Copyright 2010 Google Inc.
+	Copyright 2011 Google Inc.
+	Copyright 2012 Google Inc.
+	Copyright 2013 Google Inc.
+	Copyright 2014 Google Inc.
+	Copyright 2015 Google Inc.
+	Copyright 2015, Google Inc. All rights reserved.
+	Copyright 2020 Google LLC
+
+com.google.api.grpc:grpc-google-cloud-storage-v2:2.0.1-alpha
+	Copyright 2020 Google LLC
+
+com.google.api.grpc:proto-google-cloud-storage-v2:2.0.1-alpha
+	Copyright 2020 Google LLC
+
+com.google.api.grpc:proto-google-common-protos:1.18.1
+	Copyright 2020 Google LLC
+
+com.google.api.grpc:proto-google-iam-v1:1.1.7
+	Copyright 2020 Google LLC
+
+com.google.auth:google-auth-library-credentials:0.21.1
+	Copyright 2015, Google Inc. All rights reserved.
+	Copyright 2016, Google Inc. All rights reserved.
+
+com.google.auth:google-auth-library-oauth2-http:0.21.1
+	Copyright 2015, Google Inc. All rights reserved.
+	Copyright 2016, Google Inc. All rights reserved.
+	Copyright 2017, Google Inc. All rights reserved.
+	Copyright 2018, Google Inc. All rights reserved.
+	Copyright 2019, Google Inc. All rights reserved.
+	Copyright 2019, Google LLC
+	Copyright 2020 Google LLC
+
+com.google.auto.value:auto-value-annotations:1.7.4
+	Copyright 2012 Google LLC
+	Copyright 2013 Google LLC
+	Copyright 2014 Google LLC
+	Copyright 2015 Google LLC
+	Copyright 2016 Google LLC
+	Copyright 2017 Google LLC
+	Copyright 2018 Google LLC
+	Copyright 2019 Google LLC
+	Copyright 2020 Google LLC
+
+com.google.cloud.bigdataoss:gcs-connector:hadoop3-2.2.4
+	Copyright (C) 2014 Google, Inc.
+	Copyright 2013 Google Inc. All Rights Reserved.
+	Copyright 2014 Google Inc. All Rights Reserved.
+	Copyright 2016 Google Inc. All Rights Reserved.
+	Copyright 2018 Google Inc. All Rights Reserved.
+	Copyright 2019 Google Inc. All Rights Reserved.
+	Copyright 2019 Google LLC. All Rights Reserved.
+	Copyright 2020 Google LLC
+
+com.google.cloud.bigdataoss:gcsio:2.2.4
+	Copyright (C) 2014 Google, Inc.
+	Copyright 2013 Google Inc. All Rights Reserved.
+	Copyright 2014 Google Inc. All Rights Reserved.
+	Copyright 2015 Google Inc. All Rights Reserved.
+	Copyright 2016 Google Inc. All Rights Reserved.
+	Copyright 2019 Google Inc. All Rights Reserved.
+	Copyright 2019 Google LLC
+	Copyright 2019 Google LLC. All Rights Reserved.
+	Copyright 2020 Google Inc. All Rights Reserved.
+	Copyright 2020 Google LLC
+	Copyright 2020 Google LLC. All Rights Reserved.
+	Copyright 2021 Google Inc. All Rights Reserved.
+	Copyright 2021 Google LLC
+
+com.google.cloud.bigdataoss:util-hadoop:hadoop3-2.2.4
+	Copyright (C) 2014 Google, Inc.
+	Copyright 2013 Google Inc. All Rights Reserved.
+	Copyright 2014 Google Inc. All Rights Reserved.
+	Copyright 2018 Google Inc. All Rights Reserved.
+	Copyright 2020 Google LLC. All Rights Reserved.
+
+com.google.cloud.bigdataoss:util:2.2.4
+	Copyright (C) 2014 Google, Inc.
+	Copyright 2007 Google Inc. All Rights Reserved.
+	Copyright 2013 Google Inc. All Rights Reserved.
+	Copyright 2014 Google Inc. All Rights Reserved.
+	Copyright 2015 Google Inc. All Rights Reserved.
+	Copyright 2017 Google LLC
+	Copyright 2019 Google Inc. All Rights Reserved.
+	Copyright 2020 Google LLC
+	Copyright 2020 Google LLC. All Rights Reserved.
+	Copyright 2021 Google LLC
+	Copyright 2021 Google LLC. All Rights Reserved.
+
+com.google.code.findbugs:jsr305:3.0.2
+	Copyright (c) 2005 Brian Goetz
+
+com.google.code.gson:gson:2.8.9
+	Copyright (C) 2008 Google Inc.
+	Copyright (C) 2009 Google Inc.
+	Copyright (C) 2010 Google Inc.
+	Copyright (C) 2010 The Android Open Source Project
+	Copyright (C) 2011 Google Inc.
+	Copyright (C) 2012 Google Inc.
+	Copyright (C) 2014 Google Inc.
+	Copyright (C) 2017 The Gson authors
+	Copyright (C) 2018 The Gson authors
+	Copyright (C) 2020 Google Inc.
+	Copyright (C) 2021 Google Inc.
+
+com.google.errorprone:error_prone_annotations:2.11.0
+	Copyright 2014 The Error Prone Authors.
+	Copyright 2015 The Error Prone Authors.
+	Copyright 2016 The Error Prone Authors.
+	Copyright 2017 The Error Prone Authors.
+	Copyright 2021 The Error Prone Authors.
+
+com.google.flogger:flogger-system-backend:0.7.1
+	Copyright (C) 2012 The Flogger Authors.
+	Copyright (C) 2014 The Flogger Authors.
+	Copyright (C) 2015 The Flogger Authors.
+	Copyright (C) 2016 The Flogger Authors.
+	Copyright (C) 2017 The Flogger Authors.
+	Copyright (C) 2018 The Flogger Authors.
+
+com.google.flogger:flogger:0.7.1
+	Copyright (C) 2012 The Flogger Authors.
+	Copyright (C) 2014 The Flogger Authors.
+	Copyright (C) 2015 The Flogger Authors.
+	Copyright (C) 2016 The Flogger Authors.
+	Copyright (C) 2017 The Flogger Authors.
+	Copyright (C) 2018 The Flogger Authors.
+	Copyright (C) 2019 The Flogger Authors.
+	Copyright (C) 2020 The Flogger Authors.
+	Copyright (C) 2021 The Flogger Authors.
+
+com.google.flogger:google-extensions:0.7.1
+	Copyright (C) 2013 The Flogger Authors.
+
+com.google.guava:failureaccess:1.0.1
+	Copyright (C) 2018 The Guava Authors
+
+com.google.guava:guava:30.1.1-jre
+	Copyright (C) 2005 The Guava Authors
+	Copyright (C) 2006 The Guava Authors
+	Copyright (C) 2007 The Guava Authors
+	Copyright (C) 2008 The Guava Authors
+	Copyright (C) 2009 The Guava Authors
+	Copyright (C) 2010 The Guava Authors
+	Copyright (C) 2011 The Guava Authors
+	Copyright (C) 2011 The Guava Authors.
+	Copyright (C) 2012 The Guava Authors
+	Copyright (C) 2013 The Guava Authors
+	Copyright (C) 2014 The Guava Authors
+	Copyright (C) 2015 The Guava Authors
+	Copyright (C) 2016 The Guava Authors
+	Copyright (C) 2017 The Guava Authors
+	Copyright (C) 2018 The Guava Authors
+	Copyright (C) 2019 The Guava Authors
+	Copyright (C) 2020 The Guava Authors
+	Copyright 2019 The Guava Authors
+
+com.google.http-client:google-http-client-apache-v2:1.40.1
+	Copyright 2019 Google LLC
+
+com.google.http-client:google-http-client-gson:1.40.1
+	Copyright (c) 2011 Google Inc.
+
+com.google.http-client:google-http-client-jackson2:1.40.1
+	Copyright (c) 2012 Google Inc.
+
+com.google.http-client:google-http-client:1.36.0
+	Copyright (c) 2010 Google Inc.
+	Copyright (c) 2010 Google Inc.J
+	Copyright (c) 2011 Google Inc.
+	Copyright (c) 2012 Google Inc.
+	Copyright (c) 2013 Google Inc.
+	Copyright (c) 2014 Google Inc.
+	Copyright (c) 2018 Google Inc.
+	Copyright 2012 Google LLC
+	Copyright 2012 Google LLC.
+	Copyright 2019 Google LLC
+	Copyright 2020 Google LLC
+
+com.google.j2objc:j2objc-annotations:1.3
+	Copyright 2012 Google Inc. All Rights Reserved.
+
+com.google.oauth-client:google-oauth-client:1.32.1
+	Copyright (c) 2010 Google Inc.
+	Copyright (c) 2011 Google Inc.
+	Copyright (c) 2012 Google Inc.
+	Copyright (c) 2013 Google Inc.
+	Copyright 2021 Google LLC
+
+com.google.protobuf:protobuf-java-util:3.19.4
+	Copyright 2008 Google Inc.  All rights reserved.
+
+com.google.protobuf:protobuf-java:3.19.4
+	Copyright 2008 Google Inc.  All rights reserved.
+
+com.google.re2j:re2j:1.1
+	Copyright 2010 Google Inc. All Rights Reserved.
+	Copyright 2010 The Go Authors. All rights reserved.
+	Copyright 2011 The Go Authors.  All rights reserved.
+
+com.google.uzaygezen:uzaygezen-core:0.2
+	Copyright (C) 2008 Google Inc.
+	Copyright (C) 2012 Daniel Aioanei.
+
+com.hazelcast.jsurfer:jsurfer-core:0.10
+	Copyright (c) 2019 WANG Lingsong
+	Copyright (c) 2020 WANG Lingsong
+
+com.hazelcast.jsurfer:jsurfer-jackson-jr:0.10
+	Copyright (c) 2019 WANG Lingsong
+
+com.hazelcast:hazelcast-hibernate53:2.2.1
+	Copyright 2020 Hazelcast Inc.
+
+com.hazelcast:hazelcast-wm:4.0
+	Copyright 2020 Hazelcast Inc.
+
+com.jayway.jsonpath:json-path:2.4.0
+	Copyright 2011 the original author or authors.
+
+com.microsoft.azure:azure-data-lake-store-sdk:2.3.9
+	Copyright (c) Microsoft Corporation. All rights reserved.
+
+com.microsoft.azure:azure-keyvault-core:1.0.0
+	Copyright (c) Microsoft Corporation. All rights reserved.
+	Copyright (c) Microsoft and contributors.  All rights reserved.
+
+com.microsoft.azure:azure-storage:7.0.1
+	Copyright Microsoft Corporation
+
+com.nimbusds:nimbus-jose-jwt:7.9
+	Copyright 2012-2016, Connect2id Ltd and contributors.
+	Copyright 2012-2016, Connect2id Ltd.
+	Copyright 2012-2018, Connect2id Ltd and contributors.
+	Copyright 2012-2018, Connect2id Ltd.
+	Copyright 2012-2019, Connect2id Ltd and contributors.
+	Copyright 2012-2019, Connect2id Ltd.
+
+com.squareup.okhttp:okhttp:2.7.5
+	Copyright (C) 2010 The Android Open Source Project
+	Copyright (C) 2011 The Android Open Source Project
+	Copyright (C) 2012 Square, Inc.
+	Copyright (C) 2012 The Android Open Source Project
+	Copyright (C) 2013 Square, Inc.
+	Copyright (C) 2014 Square, Inc.
+	Copyright (C) 2015 Square, Inc.
+	Copyright (C) 2016 Square, Inc.
+	Copyright 2013 Twitter, Inc.
+
+com.squareup.okio:okio:1.6.0
+	Copyright (C) 2014 Square, Inc.
+	Copyright (C) 2015 Square, Inc.
+	Copyright 2014 Square Inc.
+
+com.tngtech.archunit:archunit:0.22.0
+	Copyright 2014-2021 TNG Technology Consulting GmbH
+
+dnsjava:dnsjava:2.1.7
+	Copyright (C) 1999-2001  Internet Software Consortium.
+	Copyright (C) 2003-2004 Nominum, Inc.
+	Copyright (c) 1999-2004 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 1999-2010 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2000-2004 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2001-2004 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2002-2004 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2003-2004 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2004 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2004-2009 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2005 Brian Wellington (bwelling@xbill.org)
+	Copyright (c) 2008 Brian Wellington (bwelling@xbill.org)
+
+info.picocli:picocli:4.4.0
+	Copyright 2017 Remko Popma
+
+io.debezium:debezium-api:1.2.5.Final
+	Copyright Debezium Authors.
+
+io.debezium:debezium-connector-mysql:1.2.5.Final
+	Copyright Debezium Authors.
+
+io.debezium:debezium-connector-postgres:1.2.5.Final
+	Copyright Debezium Authors.
+
+io.debezium:debezium-core:1.2.5.Final
+	Copyright Debezium Authors.
+
+io.debezium:debezium-ddl-parser:1.2.5.Final
+	Copyright (c) 2012-2017 The ANTLR Project. All rights reserved.
+	Copyright Debezium Authors.
+
+io.github.classgraph:classgraph:4.8.139
+	Copyright (c) 2016 Johno Crawford
+	Copyright (c) 2017 Harith Elrufaie
+	Copyright (c) 2017 R. Kempees (contributed to the ClassGraph project)
+	Copyright (c) 2017 Sergey Bespalov
+	Copyright (c) 2019 @jacobg, Luke Hutchison
+	Copyright (c) 2019 @mcollovati, contributed to the ClassGraph project
+	Copyright (c) 2019 Luke Hutchison
+	Copyright (c) 2019 Luke Hutchison, with significant contributions from Davy De Durpel
+	Copyright (c) 2020 Luke Hutchison
+	Copyright (c) 2021 Luke Hutchison
+
+io.grpc:grpc-alts:1.43.0
+	Copyright 2018 The gRPC Authors
+	Copyright 2019 The gRPC Authors
+	Copyright 2020 The gRPC Authors
+	Copyright 2021 The gRPC Authors
+
+io.grpc:grpc-api:1.43.0
+	Copyright 2014 The gRPC Authors
+	Copyright 2015 The gRPC Authors
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+	Copyright 2018 The gRPC Authors
+	Copyright 2018, gRPC Authors All rights reserved.
+	Copyright 2019 The gRPC Authors
+	Copyright 2020 The gRPC Authors
+	Copyright 2021 The gRPC Authors
+
+io.grpc:grpc-auth:1.43.0
+	Copyright 2014 The gRPC Authors
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+
+io.grpc:grpc-context:1.43.0
+	Copyright 2015 The gRPC Authors
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+
+io.grpc:grpc-core:1.43.0
+	Copyright 2014 The gRPC Authors
+	Copyright 2015 The gRPC Authors
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+	Copyright 2018 The gRPC Authors
+	Copyright 2019 The gRPC Authors
+	Copyright 2020 The gRPC Authors
+	Copyright 2021 The gRPC Authors
+
+io.grpc:grpc-grpclb:1.43.0
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+	Copyright 2018 The gRPC Authors
+	Copyright 2019 The gRPC Authors
+	Copyright 2020 The gRPC Authors
+
+io.grpc:grpc-protobuf-lite:1.43.0
+	Copyright 2014 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+
+io.grpc:grpc-protobuf:1.43.0
+	Copyright 2014 The gRPC Authors
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+
+io.grpc:grpc-stub:1.43.0
+	Copyright 2014 The gRPC Authors
+	Copyright 2015 The gRPC Authors
+	Copyright 2016 The gRPC Authors
+	Copyright 2017 The gRPC Authors
+	Copyright 2018 The gRPC Authors
+	Copyright 2019 The gRPC Authors
+	Copyright 2021 The gRPC Authors
+
+io.netty:netty-buffer:4.1.74.Final
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2020 The Netty Project
+
+io.netty:netty-codec-http2:4.1.74.Final
+	Copyright 2014 The Netty Project
+	Copyright 2014 Twitter, Inc.
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2020 The Netty Project
+	Copyright 2022 The Netty Project
+
+io.netty:netty-codec-http:4.1.74.Final
+	Copyright (c) 2008-2009 Bjoern Hoehrmann <bjoern@hoehrmann.de>
+	Copyright (c) 2011, Joe Walnes and contributors
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2020 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.netty:netty-codec:4.1.74.Final
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.netty:netty-common:4.1.74.Final
+	Copyright (c) 2004-2011 QOS.ch
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2018 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2020 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.netty:netty-handler:4.1.74.Final
+	Copyright 2011 The Netty Project
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2018 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2020 The Netty Project
+	Copyright 2021 The Netty Project
+	Copyright 2022 The Netty Project
+
+io.netty:netty-resolver:4.1.74.Final
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.netty:netty-tcnative-classes:2.0.48.Final
+	Copyright 2014 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2018 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2020 The Netty Project
+	Copyright 2021 The Netty Project
+	Copyright 2022 The Netty Project
+
+io.netty:netty-transport-classes-epoll:4.1.74.Final
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.netty:netty-transport-native-unix-common:4.1.74.Final
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2018 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.netty:netty-transport:4.1.74.Final
+	Copyright 2012 The Netty Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Netty Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Netty Project
+	Copyright 2018 The Netty Project
+	Copyright 2019 The Netty Project
+	Copyright 2020 The Netty Project
+	Copyright 2021 The Netty Project
+
+io.opencensus:opencensus-api:0.24.0
+	Copyright 2016-17, OpenCensus Authors
+	Copyright 2017, OpenCensus Authors
+	Copyright 2018, OpenCensus Authors
+	Copyright 2019, OpenCensus Authors
+
+io.opencensus:opencensus-contrib-http-util:0.24.0
+	Copyright 2017, OpenCensus Authors
+	Copyright 2018, OpenCensus Authors
+
+io.perfmark:perfmark-api:0.23.0
+	Copyright 2019 Google LLC
+	Copyright 2020 Google LLC
+
+jakarta.activation:jakarta.activation-api:1.2.1
+	Copyright (c) 1997, 2018 Oracle and/or its affiliates. All rights reserved.
+
+javax.annotation:javax.annotation-api:1.3.2
+	Copyright (c) 2005-2018 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2009-2018 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2012-2017 Oracle and/or its affiliates. All rights reserved.
+
+javax.cache:cache-api:1.1.1
+	Copyright (c) 2011-2013 Oracle and/or its affiliates.
+	Copyright (c) 2011-2013 Terracotta, Inc.
+	Copyright 2011-2016 Oracle America Incorporated
+	Copyright 2011-2016 Terracotta, Inc.
+
+javax.ws.rs:javax.ws.rs-api:2.1.1
+	Copyright (c) 2006 Google Inc.
+	Copyright (c) 2010, 2017 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2011, 2017 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2012, 2017 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2013, 2017 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2015, 2017 Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2017 Oracle and/or its affiliates. All rights reserved.
+
+joda-time:joda-time:2.10.13
+	Copyright 2001-2005 Stephen Colebourne
+	Copyright 2001-2006 Stephen Colebourne
+	Copyright 2001-2007 Stephen Colebourne
+	Copyright 2001-2009 Stephen Colebourne
+	Copyright 2001-2010 Stephen Colebourne
+	Copyright 2001-2011 Stephen Colebourne
+	Copyright 2001-2012 Stephen Colebourne
+	Copyright 2001-2013 Stephen Colebourne
+	Copyright 2001-2014 Stephen Colebourne
+	Copyright 2001-2015 Stephen Colebourne
+	Copyright 2001-2016 Stephen Colebourne
+
+mysql:mysql-connector-java:8.0.20
+	Copyright (c) 2002, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2002, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2002, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2004, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2005, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2005, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2007, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2007, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2007, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2008, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2009, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2010, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2010, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2011, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2012, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2012, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2012, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2013, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2014, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2015, 2017, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2015, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2015, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2015, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2016, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2016, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2016, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2017, 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2017, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2017, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2018, 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2018, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2018, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2019, 2020, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2019, Oracle and/or its affiliates. All rights reserved.
+	Copyright (c) 2020, Oracle and/or its affiliates. All rights reserved.
+
+net.bytebuddy:byte-buddy-agent:1.10.21
+	Copyright 2014 - Present Rafael Winterhalter
+
+net.bytebuddy:byte-buddy:1.10.21
+	Copyright (c) 2000-2011 INRIA, France Telecom
+	Copyright 2014 - Present Rafael Winterhalter
+
+net.java.dev.jna:jna:5.10.0
+	Copyright (c) 2007 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007 Wayne Meissner, All Rights Reserved
+	Copyright (c) 2007-2008 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007-2012 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007-2013 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007-2015 Timothy Wall, All Rights Reserved
+	Copyright (c) 2009 Timothy Wall, All Rights Reserved
+	Copyright (c) 2011 Timothy Wall, All Rights Reserved
+	Copyright (c) 2012 Timothy Wall, All Rights Reserved
+	Copyright (c) 2017 Matthias Bläsing, All Rights Reserved
+	Copyright (c) 2018 Matthias Bläsing
+	Copyright (c) 2019 Matthias Bläsing, All Rights Reserved
+
+net.minidev:accessors-smart:2.4.7
+	Copyright 2011 JSON-SMART authors
+
+net.minidev:json-smart:2.4.7
+	Copyright 2011 JSON-SMART authors
+	Copyright 2011-2014 JSON-SMART authors
+
+net.sf.jopt-simple:jopt-simple:5.0.2
+	Copyright (c) 2004-2014 Paul R. Holser, Jr.
+	Copyright (c) 2004-2015 Paul R. Holser, Jr.
+
+org.antlr:antlr4-runtime:4.9.3
+	Copyright (c) 2012-2017 The ANTLR Project. All rights reserved.
+
+org.apache.calcite:calcite-core:1.28.0
+	Copyright (c) 2015 Azavea.
+
+org.apache.hadoop:hadoop-common:3.3.1
+	COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, 
+	Copyright (c) 2005, European Commission project OneLab under contract 034819
+	Copyright (c) 2005, European Commission project OneLab under contract 034819 
+	Copyright (c) 2005, European Commission project OneLab under contract 034819 (http://www.one-lab.org)
+	Copyright 2015 Apache Software Foundation.
+
+org.apache.logging.log4j:log4j-core:2.17.1
+	Copyright Terracotta, Inc.
+
+org.apache.lucene:lucene-analyzers-common:7.7.3
+	Copyright (c) 2001, Dr Martin Porter
+	Copyright (c) 2002, Richard Boulton
+	Copyright (c) 2005, Jacques Savoy
+	Copyright © 2003,
+
+org.apache.lucene:lucene-analyzers-common:8.10.1
+	Copyright (c) 2001, Dr Martin Porter
+	Copyright (c) 2002, Richard Boulton
+	Copyright (c) 2005, Jacques Savoy
+	Copyright © 2003,
+
+org.apache.lucene:lucene-core:7.7.3
+	Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+	Copyright (C) 1999-2010, International Business Machines
+	Copyright (c) 1970-2003, Wm. Randolph Franklin
+	Copyright (c) 2001-2009 Anders Moeller
+	Copyright 2001-2004 Unicode, Inc.
+	copyright holder.
+
+org.apache.lucene:lucene-core:8.10.1
+	Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+	Copyright (C) 1999-2010, International Business Machines
+	Copyright (c) 1970-2003, Wm. Randolph Franklin
+	Copyright (c) 2001-2009 Anders Moeller
+	Copyright (c) 2011-2016, Yann Collet
+	Copyright (c) 2016, Mapbox
+	Copyright 2001-2004 Unicode, Inc.
+	copyright holder.
+
+org.apache.lucene:lucene-sandbox:7.7.3
+	Copyright (c) 2016, Mapbox
+
+org.apache.lucene:lucene-suggest:7.7.3
+	Copyright (c) 2005 Bruno Martins
+
+org.apache.lucene:lucene-suggest:8.10.1
+	Copyright (c) 2005 Bruno Martins
+
+org.codehaus.jackson:jackson-core-asl:1.9.14.jdk17-redhat-00001
+	Copyright (c) 2007- Tatu Saloranta, tatu.saloranta@iki.fi
+
+org.codehaus.jackson:jackson-mapper-asl:1.9.14.jdk17-redhat-00001
+	Copyright (c) 2007- Tatu Saloranta, tatu.saloranta@iki.fi
+
+org.codehaus.janino:commons-compiler:3.1.6
+	Copyright (c) 2001-2010 Arno Unkrig. All rights reserved.
+	Copyright (c) 2001-2017 Arno Unkrig. All rights reserved.
+	Copyright (c) 2001-2018 Arno Unkrig. All rights reserved.
+	Copyright (c) 2010 Arno Unkrig. All rights reserved.
+	Copyright (c) 2013 Arno Unkrig. All rights reserved.
+	Copyright (c) 2016 Arno Unkrig. All rights reserved.
+	Copyright (c) 2018 Arno Unkrig. All rights reserved.
+	Copyright (c) 2018, 2019 Arno Unkrig. All rights reserved.
+	Copyright (c) 2019 Arno Unkrig. All rights reserved.
+	Copyright (c) 2020 Arno Unkrig. All rights reserved.
+
+org.codehaus.janino:janino:3.1.6
+	Copyright (c) 2001-2010 Arno Unkrig. All rights reserved.
+	Copyright (c) 2001-2018 Arno Unkrig. All rights reserved.
+	Copyright (c) 2001-2019 Arno Unkrig. All rights reserved.
+	Copyright (c) 2001-2020 Arno Unkrig. All rights reserved.
+	Copyright (c) 2013 Arno Unkrig. All rights reserved.
+	Copyright (c) 2015-2016 TIBCO Software Inc. All rights reserved. // CHECKSTYLE:OFF CHECKSTYLE:ON
+	Copyright (c) 2016 Arno Unkrig. All rights reserved.
+	Copyright (c) 2018 Arno Unkrig. All rights reserved.
+
+org.codehaus.mojo:animal-sniffer-annotations:1.19
+	Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org.
+	Copyright (c) 2009 codehaus.org.
+
+org.codehaus.woodstox:stax2-api:4.2.1
+	Copyright (c) 2004- Tatu Saloranta, tatu.saloranta@iki.fi
+	Copyright (c) 2005- Tatu Saloranta, tatu.saloranta@iki.fi
+	Copyright (c) 2006- Tatu Saloranta, tatu.saloranta@iki.fi
+	Copyright (c) 2008- Tatu Saloranta, tatu.saloranta@iki.fi
+
+org.conscrypt:conscrypt-openjdk-uber:2.5.1
+	Copyright (C) 2007 The Android Open Source Project
+	Copyright (C) 2008 The Android Open Source Project
+	Copyright (C) 2009 The Android Open Source Project
+	Copyright (C) 2010 The Android Open Source Project
+	Copyright (C) 2011 The Android Open Source Project
+	Copyright (C) 2012 The Android Open Source Project
+	Copyright (C) 2013 The Android Open Source Project
+	Copyright (C) 2014 The Android Open Source Project
+	Copyright (C) 2015 The Android Open Source Project
+	Copyright (C) 2016 The Android Open Source Project
+	Copyright (C) 2017 The Android Open Source Project
+	Copyright (C) 2019 The Android Open Source Project
+	Copyright (C) 2020 The Android Open Source Project
+	Copyright 2013 The Android Open Source Project
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Android Open Source Project
+	Copyright 2014 The Netty Project
+	Copyright 2015 The Android Open Source Project
+	Copyright 2016 The Android Open Source Project
+	Copyright 2016 The Netty Project
+	Copyright 2017 The Android Open Source Project
+	Copyright 2017 The Netty Project
+	Copyright 2018 The Android Open Source Project
+	Copyright 2019 The Android Open Source Project
+
+org.eclipse.jetty:jetty-util-ajax:9.4.44.v20210927
+	Copyright (c) 1995-2021 Mort Bay Consulting Pty Ltd and others.
+
+org.eclipse.jetty:jetty-util:9.4.44.v20210927
+	Copyright (c) 1995-2021 Mort Bay Consulting Pty Ltd and others.
+	Copyright (c) 1996 Aki Yoshida. All rights reserved.
+
+org.elasticsearch.client:elasticsearch-rest-high-level-client:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch.plugin:aggs-matrix-stats-client:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch.plugin:lang-mustache-client:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch.plugin:mapper-extras-client:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch.plugin:parent-join-client:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch.plugin:rank-eval-client:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch-cli:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch-core:7.16.3
+	Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+	Copyright 2012 Jeff Hain
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch-geo:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch-lz4:7.16.3
+	Copyright 2020 Adrien Grand and the lz4-java contributors.
+
+org.elasticsearch:elasticsearch-plugin-classloader:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch-secure-sm:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch-x-content:7.16.3
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:elasticsearch:6.8.23
+	Copyright (C) 2006 Google Inc.
+	Copyright (C) 2007 Google Inc.
+	Copyright (C) 2008 Google Inc.
+	Copyright (C) 2008 The Guava Authors
+	Copyright (C) 2009 Google Inc.
+	Copyright (C) 2010 Google Inc.
+	Copyright 2001-2009 Stephen Colebourne
+	Copyright 2004-2005 The Apache Software Foundation.
+
+org.elasticsearch:elasticsearch:7.16.3
+	Copyright (C) 2006 Google Inc.
+	Copyright (C) 2007 Google Inc.
+	Copyright (C) 2008 Google Inc.
+	Copyright (C) 2008 The Guava Authors
+	Copyright (C) 2009 Google Inc.
+	Copyright (C) 2010 Google Inc.
+	Copyright (C) 2012 The Guava Authors
+	Copyright 2001-2009 Stephen Colebourne
+	Copyright 2001-2014 Stephen Colebourne
+	Copyright 2013 The Netty Project
+	Copyright 2014 The Netty Project
+	Copyright 2020 Adrien Grand and the lz4-java contributors.
+	Copyright Elasticsearch B.V. and/or licensed to Elasticsearch B.V. under one
+
+org.elasticsearch:jna:5.5.0
+	Copyright (c) 2007 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007 Wayne Meissner, All Rights Reserved
+	Copyright (c) 2007-2008 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007-2012 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007-2013 Timothy Wall, All Rights Reserved
+	Copyright (c) 2007-2015 Timothy Wall, All Rights Reserved
+	Copyright (c) 2009 Timothy Wall, All Rights Reserved
+	Copyright (c) 2011 Timothy Wall, All Rights Reserved
+	Copyright (c) 2012 Timothy Wall, All Rights Reserved
+	Copyright (c) 2017 Matthias Bläsing, All Rights Reserved
+	Copyright (c) 2018 Matthias Bläsing
+	Copyright (c) 2019 Matthias Bläsing, All Rights Reserved
+
+org.fusesource.jansi:jansi:2.4.0
+	Copyright (C) 2009-2017 the original author(s).
+	Copyright (C) 2009-2019 the original author(s).
+	Copyright (C) 2009-2020 the original author(s).
+	Copyright (C) 2009-2021 the original author(s).
+	Copyright (c) 2002-2018, the original author or authors.
+	Copyright 2007 Taro L. Saito
+	Copyright 2008 Taro L. Saito
+
+org.jetbrains.kotlin:kotlin-stdlib:1.5.31
+	Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors.
+	Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.
+
+org.jetbrains:annotations:13.0
+	Copyright 2000-2009 JetBrains s.r.o.
+	Copyright 2000-2012 JetBrains s.r.o.
+	Copyright 2000-2013 JetBrains s.r.o.
+	Copyright 2006 Sascha Weinreuter
+
+org.jline:jline-reader:3.21.0
+	Copyright (c) 2002-2016, the original author or authors.
+	Copyright (c) 2002-2017, the original author or authors.
+	Copyright (c) 2002-2018, the original author or authors.
+	Copyright (c) 2002-2019, the original author or authors.
+	Copyright (c) 2002-2020, the original author or authors.
+	Copyright (c) 2002-2021, the original author or authors.
+
+org.jline:jline-terminal-jansi:3.21.0
+	Copyright (C) 2009-2018 the original author(s).
+	Copyright (c) 2002-2017, the original author or authors.
+	Copyright (c) 2002-2020, the original author or authors.
+
+org.jline:jline-terminal:3.21.0
+	Copyright (C) 2009-2018 the original author(s).
+	Copyright (c) 2002-2016, the original author or authors.
+	Copyright (c) 2002-2017, the original author or authors.
+	Copyright (c) 2002-2018, the original author or authors.
+	Copyright (c) 2002-2019, the original author or authors.
+	Copyright (c) 2002-2020, the original author or authors.
+	Copyright (c) 2002-2021, the original author or authors.
+
+org.json:json:20201115
+	Copyright (c) 2002 JSON.org
+	Copyright (c) 2006 JSON.org
+	Copyright (c) 2008 JSON.org
+	Copyright (c) 2015 JSON.org
+	Copyright (c) 2018 JSON.org
+
+org.lz4:lz4-java:1.8.0
+	Copyright 2020 Adrien Grand and the lz4-java contributors.
+	Copyright 2020 Linnaea Von Lavia and the lz4-java contributors.
+	Copyright 2020 Rei Odaira and the lz4-java contributors.
+	Copyright 2020 The Apache Software Foundation and the lz4-java contributors.
+
+org.objenesis:objenesis:3.1
+	Copyright 2006-2019 the original author or authors.
+
+org.objenesis:objenesis:3.2
+	Copyright 2006-2021 the original author or authors.
+
+org.ow2.asm:asm:9.1
+	Copyright (c) 2000-2011 INRIA, France Telecom
+
+org.postgresql:postgresql:42.2.14
+	Copyright (c) 2003, PostgreSQL Global Development Group
+	Copyright (c) 2004, Open Cloud Limited.
+	Copyright (c) 2004, PostgreSQL Global Development Group
+	Copyright (c) 2004, PostgreSQL Global Development Group.
+	Copyright (c) 2005, PostgreSQL Global Development Group
+	Copyright (c) 2006, PostgreSQL Global Development Group
+	Copyright (c) 2007, PostgreSQL Global Development Group
+	Copyright (c) 2008, PostgreSQL Global Development Group
+	Copyright (c) 2009, PostgreSQL Global Development Group
+	Copyright (c) 2011, PostgreSQL Global Development Group
+	Copyright (c) 2012, PostgreSQL Global Development Group
+	Copyright (c) 2014, PostgreSQL Global Development Group
+	Copyright (c) 2015, PostgreSQL Global Development Group
+	Copyright (c) 2016, PostgreSQL Global Development Group
+	Copyright (c) 2017, PostgreSQL Global Development Group
+	Copyright (c) 2018, PostgreSQL Global Development Group
+	Copyright (c) 2019, PostgreSQL Global Development Group
+	Copyright (c) 2020, PostgreSQL Global Development Group
+
+org.slf4j:slf4j-api:1.7.36
+	Copyright (c) 2004-2011 QOS.ch
+
+org.snakeyaml:snakeyaml-engine:2.3
+	Copyright (c) 2008 Google Inc.
+	Copyright (c) 2018, http://www.snakeyaml.org
+
+org.wildfly.openssl:wildfly-openssl:1.0.12.Final
+	Copyright 2012, Red Hat, Inc., and individual contributors
+	Copyright 2016 Red Hat, Inc., and individual contributors
+
+org.xerial.snappy:snappy-java:1.1.8.4
+	Copyright 2008 Taro L. Saito
+	Copyright 2011 Taro L. Saito
+
+org.yaml:snakeyaml:1.30
+	Copyright (c) 2008 Google Inc.
+	Copyright (c) 2008, SnakeYAML
+	Copyright 2003-2010 Christian d'Heureuse, Inventec Informatik AG, Zurich, Switzerland
+
+software.amazon.awssdk:annotations:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:apache-client:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:arns:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:auth:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:aws-core:2.17.121
+	Copyright 2017-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:aws-query-protocol:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:aws-xml-protocol:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:http-client-spi:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:json-utils:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:metrics-spi:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:netty-nio-client:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:profiles:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:protocol-core:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:regions:2.17.121
+	Copyright 2017-2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:s3:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:sdk-core:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.awssdk:utils:2.17.121
+	Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.eventstream:eventstream:1.0.1
+	Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+software.amazon.ion:ion-java:1.0.2
+	Copyright (c) 2007 Amazon.com, Inc.  All rights reserved.
+	Copyright (c) 2007-2013 Amazon.com, Inc.  All rights reserved.
+	Copyright (c) 2016 Amazon.com, Inc.  All rights reserved.
+	Copyright 2007-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2008-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2009-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2011-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2012-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2013-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2014-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2015-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+	Copyright 2016-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+

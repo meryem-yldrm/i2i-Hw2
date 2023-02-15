@@ -1,0 +1,129 @@
+2023-02-08 16:25:03,981 [ INFO] [main] [.h.i.c.AbstractConfigLocator]: Loading configuration 'C:\Users\EXCALIBUR\Desktop\x\hazelcast-5.1\hazelcast-5.1\bin\..\config\hazelcast.xml' from System property 'hazelcast.config'
+2023-02-08 16:25:03,990 [ INFO] [main] [.h.i.c.AbstractConfigLocator]: Using configuration file at C:\Users\EXCALIBUR\Desktop\x\hazelcast-5.1\hazelcast-5.1\bin\..\config\hazelcast.xml
+2023-02-08 16:25:08,129 [ INFO] [main] [.h.i.AddressPicker]: [LOCAL] [dev] [5.1] Interfaces is enabled, trying to pick one address matching to one of: [127.0.0.1, 127.0.0.1]
+2023-02-08 16:25:08,679 [ INFO] [main] [.h.s.logo]: [127.0.0.1]:5701 [dev] [5.1] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-02-08 16:25:08,680 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-02-08 16:25:08,681 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Hazelcast Platform 5.1 (20220301 - 1ae792d) starting at [127.0.0.1]:5701
+2023-02-08 16:25:08,682 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Cluster name: dev
+2023-02-08 16:25:08,682 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-02-08 16:25:08,682 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Jet is enabled
+2023-02-08 16:25:10,875 [ INFO] [main] [.h.s.security]: [127.0.0.1]:5701 [dev] [5.1] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-02-08 16:25:11,159 [ INFO] [main] [.h.i.i.Node]: [127.0.0.1]:5701 [dev] [5.1] Using TCP/IP discovery
+2023-02-08 16:25:11,161 [ WARN] [main] [.h.c.CPSubsystem]: [127.0.0.1]:5701 [dev] [5.1] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-02-08 16:25:12,646 [ INFO] [main] [.h.j.i.JetServiceBackend]: [127.0.0.1]:5701 [dev] [5.1] Setting number of cooperative threads and default parallelism to 8
+2023-02-08 16:25:13,115 [ INFO] [main] [.h.i.d.Diagnostics]: [127.0.0.1]:5701 [dev] [5.1] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-02-08 16:25:13,130 [ INFO] [main] [.h.c.LifecycleService]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5701 is STARTING
+2023-02-08 16:25:14,042 [ INFO] [hz.unruffled_lovelace.cached.thread-1] [.h.i.c.i.TcpIpJoiner]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5703 is added to the blacklist.
+2023-02-08 16:25:14,042 [ INFO] [hz.unruffled_lovelace.cached.thread-2] [.h.i.c.i.TcpIpJoiner]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5702 is added to the blacklist.
+2023-02-08 16:25:15,005 [ INFO] [main] [.h.i.c.ClusterService]: [127.0.0.1]:5701 [dev] [5.1] 
+
+Members {size:1, ver:1} [
+	Member [127.0.0.1]:5701 - 77e6cc05-2f08-4521-a9e6-ee8f36e9f3fb this
+]
+
+2023-02-08 16:25:15,044 [ INFO] [main] [.h.j.i.JobCoordinationService]: [127.0.0.1]:5701 [dev] [5.1] Jet started scanning for jobs
+2023-02-08 16:25:15,062 [ INFO] [main] [.h.c.LifecycleService]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5701 is STARTED
+2023-02-08 17:09:56,598 [ INFO] [main] [.h.i.c.AbstractConfigLocator]: Loading configuration 'C:\Users\EXCALIBUR\Desktop\x\hazelcast-5.1\hazelcast-5.1\bin\..\config\hazelcast.xml' from System property 'hazelcast.config'
+2023-02-08 17:09:56,600 [ INFO] [main] [.h.i.c.AbstractConfigLocator]: Using configuration file at C:\Users\EXCALIBUR\Desktop\x\hazelcast-5.1\hazelcast-5.1\bin\..\config\hazelcast.xml
+2023-02-08 17:09:57,448 [ INFO] [main] [.h.i.AddressPicker]: [LOCAL] [dev] [5.1] Interfaces is enabled, trying to pick one address matching to one of: [127.0.0.1, 127.0.0.1]
+2023-02-08 17:09:57,579 [ INFO] [main] [.h.s.logo]: [127.0.0.1]:5701 [dev] [5.1] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-02-08 17:09:57,579 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-02-08 17:09:57,581 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Hazelcast Platform 5.1 (20220301 - 1ae792d) starting at [127.0.0.1]:5701
+2023-02-08 17:09:57,582 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Cluster name: dev
+2023-02-08 17:09:57,583 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-02-08 17:09:57,584 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Jet is enabled
+2023-02-08 17:09:58,166 [ INFO] [main] [.h.s.security]: [127.0.0.1]:5701 [dev] [5.1] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-02-08 17:09:58,246 [ INFO] [main] [.h.i.i.Node]: [127.0.0.1]:5701 [dev] [5.1] Using TCP/IP discovery
+2023-02-08 17:09:58,248 [ WARN] [main] [.h.c.CPSubsystem]: [127.0.0.1]:5701 [dev] [5.1] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-02-08 17:09:58,605 [ INFO] [main] [.h.j.i.JetServiceBackend]: [127.0.0.1]:5701 [dev] [5.1] Setting number of cooperative threads and default parallelism to 8
+2023-02-08 17:09:58,706 [ INFO] [main] [.h.i.d.Diagnostics]: [127.0.0.1]:5701 [dev] [5.1] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-02-08 17:09:58,718 [ INFO] [main] [.h.c.LifecycleService]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5701 is STARTING
+2023-02-08 17:10:01,082 [ INFO] [hz.reverent_mestorf.cached.thread-1] [.h.i.c.i.TcpIpJoiner]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5703 is added to the blacklist.
+2023-02-08 17:10:01,082 [ INFO] [hz.reverent_mestorf.cached.thread-4] [.h.i.c.i.TcpIpJoiner]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5702 is added to the blacklist.
+2023-02-08 17:10:02,050 [ INFO] [main] [.h.i.c.ClusterService]: [127.0.0.1]:5701 [dev] [5.1] 
+
+Members {size:1, ver:1} [
+	Member [127.0.0.1]:5701 - 48ab94d9-b83a-422a-9aa5-29e957c432be this
+]
+
+2023-02-08 17:10:02,075 [ INFO] [main] [.h.j.i.JobCoordinationService]: [127.0.0.1]:5701 [dev] [5.1] Jet started scanning for jobs
+2023-02-08 17:10:02,085 [ INFO] [main] [.h.c.LifecycleService]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5701 is STARTED
+2023-02-08 17:15:40,857 [ INFO] [main] [.h.i.c.AbstractConfigLocator]: Loading configuration 'C:\Users\EXCALIBUR\Desktop\x\hazelcast-5.1\hazelcast-5.1\bin\..\config\hazelcast.xml' from System property 'hazelcast.config'
+2023-02-08 17:15:40,860 [ INFO] [main] [.h.i.c.AbstractConfigLocator]: Using configuration file at C:\Users\EXCALIBUR\Desktop\x\hazelcast-5.1\hazelcast-5.1\bin\..\config\hazelcast.xml
+2023-02-08 17:15:41,668 [ INFO] [main] [.h.i.AddressPicker]: [LOCAL] [dev] [5.1] Interfaces is enabled, trying to pick one address matching to one of: [127.0.0.1, 127.0.0.1]
+2023-02-08 17:15:41,769 [ INFO] [main] [.h.s.logo]: [127.0.0.1]:5701 [dev] [5.1] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-02-08 17:15:41,769 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-02-08 17:15:41,771 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Hazelcast Platform 5.1 (20220301 - 1ae792d) starting at [127.0.0.1]:5701
+2023-02-08 17:15:41,772 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Cluster name: dev
+2023-02-08 17:15:41,772 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-02-08 17:15:41,773 [ INFO] [main] [.h.system]: [127.0.0.1]:5701 [dev] [5.1] Jet is enabled
+2023-02-08 17:15:42,524 [ INFO] [main] [.h.s.security]: [127.0.0.1]:5701 [dev] [5.1] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-02-08 17:15:42,610 [ INFO] [main] [.h.i.i.Node]: [127.0.0.1]:5701 [dev] [5.1] Using TCP/IP discovery
+2023-02-08 17:15:42,612 [ WARN] [main] [.h.c.CPSubsystem]: [127.0.0.1]:5701 [dev] [5.1] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-02-08 17:15:43,101 [ INFO] [main] [.h.j.i.JetServiceBackend]: [127.0.0.1]:5701 [dev] [5.1] Setting number of cooperative threads and default parallelism to 8
+2023-02-08 17:15:43,198 [ INFO] [main] [.h.i.d.Diagnostics]: [127.0.0.1]:5701 [dev] [5.1] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-02-08 17:15:43,207 [ INFO] [main] [.h.c.LifecycleService]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5701 is STARTING
+2023-02-08 17:15:45,618 [ INFO] [hz.frosty_poitras.cached.thread-3] [.h.i.c.i.TcpIpJoiner]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5703 is added to the blacklist.
+2023-02-08 17:15:45,618 [ INFO] [hz.frosty_poitras.cached.thread-4] [.h.i.c.i.TcpIpJoiner]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5702 is added to the blacklist.
+2023-02-08 17:15:46,581 [ INFO] [main] [.h.i.c.ClusterService]: [127.0.0.1]:5701 [dev] [5.1] 
+
+Members {size:1, ver:1} [
+	Member [127.0.0.1]:5701 - 7e377c46-d037-425b-ad44-c28bf4f206b9 this
+]
+
+2023-02-08 17:15:46,607 [ INFO] [main] [.h.j.i.JobCoordinationService]: [127.0.0.1]:5701 [dev] [5.1] Jet started scanning for jobs
+2023-02-08 17:15:46,615 [ INFO] [main] [.h.c.LifecycleService]: [127.0.0.1]:5701 [dev] [5.1] [127.0.0.1]:5701 is STARTED
+2023-02-08 17:38:08,150 [ INFO] [hz.frosty_poitras.HealthMonitor] [.h.i.d.HealthMonitor]: [127.0.0.1]:5701 [dev] [5.1] processors=8, physical.memory.total=15,9G, physical.memory.free=5,3G, swap.space.total=18,2G, swap.space.free=6,0G, heap.memory.used=147,6M, heap.memory.free=106,4M, heap.memory.total=254,0M, heap.memory.max=4,0G, heap.memory.used/total=58,10%, heap.memory.used/max=3,63%, minor.gc.count=4, minor.gc.time=31ms, major.gc.count=0, major.gc.time=0ms, load.process=0,10%, load.system=75,22%, load.systemAverage=n/a thread.count=61, thread.peakCount=68, cluster.timeDiff=0, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.client.query.size=0, executor.q.client.blocking.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=1, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0,00%, operations.pending.invocations.count=0, proxy.count=1, clientEndpoint.count=0, connection.active.count=0, client.connection.count=0, connection.count=0
+2023-02-08 17:43:27,250 [ INFO] [hz.frosty_poitras.priority-generic-operation.thread-0] [.h.c.i.p.t.AuthenticationMessageTask]: [127.0.0.1]:5701 [dev] [5.1] Received auth from Connection[id=1, /127.0.0.1:5701->/127.0.0.1:50902, qualifier=null, endpoint=[127.0.0.1]:50902, remoteUuid=6e328374-1029-4768-a16d-a239c2abf822, alive=true, connectionType=JVM, planeIndex=-1], successfully authenticated, clientUuid: 6e328374-1029-4768-a16d-a239c2abf822, client name: hz.client_1, client version: 5.2.1
+2023-02-08 17:43:27,329 [ INFO] [hz.frosty_poitras.partition-operation.thread-3] [.h.i.p.i.PartitionStateManager]: [127.0.0.1]:5701 [dev] [5.1] Initializing cluster partition table arrangement...
+2023-02-08 17:43:30,578 [ INFO] [hz.frosty_poitras.IO.thread-in-1] [.h.i.s.t.TcpServerConnection]: [127.0.0.1]:5701 [dev] [5.1] Connection[id=1, /127.0.0.1:5701->/127.0.0.1:50902, qualifier=null, endpoint=[127.0.0.1]:50902, remoteUuid=6e328374-1029-4768-a16d-a239c2abf822, alive=false, connectionType=JVM, planeIndex=-1] closed. Reason: Connection closed by the other side
+2023-02-08 17:43:30,581 [ INFO] [hz.frosty_poitras.event-3] [.h.c.i.ClientEndpointManager]: [127.0.0.1]:5701 [dev] [5.1] Destroying ClientEndpoint{connection=Connection[id=1, /127.0.0.1:5701->/127.0.0.1:50902, qualifier=null, endpoint=[127.0.0.1]:50902, remoteUuid=6e328374-1029-4768-a16d-a239c2abf822, alive=false, connectionType=JVM, planeIndex=-1], clientUuid=6e328374-1029-4768-a16d-a239c2abf822, clientName=hz.client_1, authenticated=true, clientVersion=5.2.1, creationTime=1675867407246, latest clientAttributes=lastStatisticsCollectionTime=1675867407292,enterprise=false,clientType=JVM,clientVersion=5.2.1,clusterConnectionTimestamp=1675867407186,clientAddress=127.0.0.1,clientName=hz.client_1,credentials.principal=null,os.committedVirtualMemorySize=0,os.freePhysicalMemorySize=0,os.freeSwapSpaceSize=0,os.maxFileDescriptorCount=0,os.openFileDescriptorCount=0,os.processCpuTime=0,os.systemLoadAverage=-1.0,os.totalPhysicalMemorySize=0,os.totalSwapSpaceSize=0,runtime.availableProcessors=8,runtime.freeMemory=238541112,runtime.maxMemory=4261412864,runtime.totalMemory=266338304,runtime.uptime=1071,runtime.usedMemory=27797192, labels=[]}
+2023-02-08 17:43:46,374 [ INFO] [hz.frosty_poitras.priority-generic-operation.thread-0] [.h.c.i.p.t.AuthenticationMessageTask]: [127.0.0.1]:5701 [dev] [5.1] Received auth from Connection[id=2, /127.0.0.1:5701->/127.0.0.1:50926, qualifier=null, endpoint=[127.0.0.1]:50926, remoteUuid=0d5a8182-bbb4-4552-adad-8ce453da85cf, alive=true, connectionType=MCJVM, planeIndex=-1], successfully authenticated, clientUuid: 0d5a8182-bbb4-4552-adad-8ce453da85cf, client name: MC-Client-dev, client version: 5.1
+2023-02-08 17:44:31,536 [ INFO] [hz.frosty_poitras.priority-generic-operation.thread-0] [.h.c.i.p.t.AuthenticationMessageTask]: [127.0.0.1]:5701 [dev] [5.1] Received auth from Connection[id=3, /127.0.0.1:5701->/127.0.0.1:50941, qualifier=null, endpoint=[127.0.0.1]:50941, remoteUuid=5eb6b3bb-6fdc-4c3b-bb18-5596698e57a8, alive=true, connectionType=JVM, planeIndex=-1], successfully authenticated, clientUuid: 5eb6b3bb-6fdc-4c3b-bb18-5596698e57a8, client name: hz.client_1, client version: 5.2.1
+2023-02-08 17:44:34,673 [ INFO] [hz.frosty_poitras.IO.thread-in-0] [.h.i.s.t.TcpServerConnection]: [127.0.0.1]:5701 [dev] [5.1] Connection[id=3, /127.0.0.1:5701->127.0.0.1/127.0.0.1:50941, qualifier=null, endpoint=[127.0.0.1]:50941, remoteUuid=5eb6b3bb-6fdc-4c3b-bb18-5596698e57a8, alive=false, connectionType=JVM, planeIndex=-1] closed. Reason: Connection closed by the other side
+2023-02-08 17:44:34,684 [ INFO] [hz.frosty_poitras.event-2] [.h.c.i.ClientEndpointManager]: [127.0.0.1]:5701 [dev] [5.1] Destroying ClientEndpoint{connection=Connection[id=3, /127.0.0.1:5701->127.0.0.1/127.0.0.1:50941, qualifier=null, endpoint=[127.0.0.1]:50941, remoteUuid=5eb6b3bb-6fdc-4c3b-bb18-5596698e57a8, alive=false, connectionType=JVM, planeIndex=-1], clientUuid=5eb6b3bb-6fdc-4c3b-bb18-5596698e57a8, clientName=hz.client_1, authenticated=true, clientVersion=5.2.1, creationTime=1675867471536, latest clientAttributes=lastStatisticsCollectionTime=1675867471575,enterprise=false,clientType=JVM,clientVersion=5.2.1,clusterConnectionTimestamp=1675867471475,clientAddress=127.0.0.1,clientName=hz.client_1,credentials.principal=null,os.committedVirtualMemorySize=0,os.freePhysicalMemorySize=0,os.freeSwapSpaceSize=0,os.maxFileDescriptorCount=0,os.openFileDescriptorCount=0,os.processCpuTime=0,os.systemLoadAverage=-1.0,os.totalPhysicalMemorySize=0,os.totalSwapSpaceSize=0,runtime.availableProcessors=8,runtime.freeMemory=238074136,runtime.maxMemory=4261412864,runtime.totalMemory=266338304,runtime.uptime=1131,runtime.usedMemory=28264168, labels=[]}
+2023-02-08 18:06:58,316 [ WARN] [hz.frosty_poitras.IO.thread-in-2] [.h.i.s.t.TcpServerConnection]: [127.0.0.1]:5701 [dev] [5.1] Connection[id=2, /127.0.0.1:5701->127.0.0.1/127.0.0.1:50926, qualifier=null, endpoint=[127.0.0.1]:50926, remoteUuid=0d5a8182-bbb4-4552-adad-8ce453da85cf, alive=false, connectionType=MCJVM, planeIndex=-1] closed. Reason: Exception in Connection[id=2, /127.0.0.1:5701->127.0.0.1/127.0.0.1:50926, qualifier=null, endpoint=[127.0.0.1]:50926, remoteUuid=0d5a8182-bbb4-4552-adad-8ce453da85cf, alive=true, connectionType=MCJVM, planeIndex=-1], thread=hz.frosty_poitras.IO.thread-in-2
+java.io.IOException: Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:?]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:?]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276) ~[?:?]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:245) ~[?:?]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:223) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358) ~[?:?]
+	at com.hazelcast.internal.networking.nio.NioInboundPipeline.process(NioInboundPipeline.java:114) ~[hazelcast-5.1.jar:5.1]
+	at com.hazelcast.internal.networking.nio.NioThread.processSelectionKey(NioThread.java:383) [hazelcast-5.1.jar:5.1]
+	at com.hazelcast.internal.networking.nio.NioThread.processSelectionKeys(NioThread.java:368) [hazelcast-5.1.jar:5.1]
+	at com.hazelcast.internal.networking.nio.NioThread.selectLoop(NioThread.java:294) [hazelcast-5.1.jar:5.1]
+	at com.hazelcast.internal.networking.nio.NioThread.executeRun(NioThread.java:249) [hazelcast-5.1.jar:5.1]
+	at com.hazelcast.internal.util.executor.HazelcastManagedThread.run(HazelcastManagedThread.java:102) [hazelcast-5.1.jar:5.1]
+2023-02-08 18:06:58,325 [ INFO] [hz.frosty_poitras.event-2] [.h.c.i.ClientEndpointManager]: [127.0.0.1]:5701 [dev] [5.1] Destroying ClientEndpoint{connection=Connection[id=2, /127.0.0.1:5701->127.0.0.1/127.0.0.1:50926, qualifier=null, endpoint=[127.0.0.1]:50926, remoteUuid=0d5a8182-bbb4-4552-adad-8ce453da85cf, alive=false, connectionType=MCJVM, planeIndex=-1], clientUuid=0d5a8182-bbb4-4552-adad-8ce453da85cf, clientName=MC-Client-dev, authenticated=true, clientVersion=5.1, creationTime=1675867426374, latest clientAttributes=null, labels=[]}
